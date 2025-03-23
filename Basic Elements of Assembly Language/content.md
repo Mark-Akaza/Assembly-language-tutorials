@@ -23,6 +23,8 @@ Instructions.md
 
 NOP (No Operation) Instruction.md
 
+
+
 1️⃣ Integer Constants
 Whole numbers used in programs.
 
@@ -36,6 +38,8 @@ Binary (e.g., 1010b)
 
 Octal (e.g., 037o)
 
+
+
 2️⃣ Integer Expressions
 Combine integer constants using operators:
 
@@ -47,6 +51,9 @@ assembly
 Copy
 Edit
 MOV AX, 5 + 3
+
+
+
 3️⃣ Real Number Constants
 Represent fractional numbers (floating-point).
 
@@ -55,6 +62,8 @@ Example:
 Copy
 Edit
 3.14, -0.5
+
+
 4️⃣ Character Constants
 Single character enclosed in single quotes.
 
@@ -66,6 +75,7 @@ Edit
 'A', 'b'
 Stored as ASCII values.
 
+
 5️⃣ String Constants
 Sequence of characters enclosed in double quotes.
 
@@ -75,6 +85,8 @@ arduino
 Copy
 Edit
 "Hello", "World!"
+
+
 6️⃣ Reserved Words
 Words predefined by the assembler.
 
@@ -106,6 +118,9 @@ Example:
 Copy
 Edit
 count, total_sum, loop1
+
+
+
 8️⃣ Directives
 Commands for the assembler, not for CPU execution.
 
@@ -119,6 +134,9 @@ DW (Define Word)
 
 SEGMENT, ENDS, END
 
+
+
+
 9️⃣ Instructions
 Actual commands executed by CPU.
 
@@ -131,6 +149,9 @@ Arithmetic: ADD, SUB, MUL
 Logical: AND, OR, XOR
 
 Control Flow: JMP, CALL
+
+
+
 
 🔟 NOP (No Operation) Instruction
 NOP = No Operation
